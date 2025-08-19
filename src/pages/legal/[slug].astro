@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { SEO } from 'astro-seo';
+import BlogNavbar from '../../components/BlogNavbar';
+import Footer from '../../components/Footer';
+import { formatDate } from '../../utils/date';
+
+export async function getStaticPaths() {
+  const legalDocs = await getCollection('legal');
+  return legalDocs.map(doc => ({
+    params: { slug: doc.slug },
+    props: { doc },
+  }));
+}
+
+const { doc } = Astro.props;
+const { Content } = await doc.render();
+---
+
+<Layout title={`${doc.data.title} - Cheapify`}>
+  <SEO
+    title={doc.data.title}
+    description={doc.data.description}
+  />
+  
+  <BlogNavbar client:load />
+  <main class="container mx-auto px-4 py-8 pt-24">
+    <article class="max-w-3xl mx-auto">
+      <div class="mb-8">
+        <h1 class="text-3xl font-bold text-gray-800 mb-4">{doc.data.title}</h1>
+        <p class="text-gray-600">Last updated: {formatDate(doc.data.lastUpdated)}</p>
+      </div>
+      
+      <div class="prose prose-lg max-w-none">
+        <Content />
+      </div>
+    </article>
+  </main>
+  <Footer client:load />
+</Layout>

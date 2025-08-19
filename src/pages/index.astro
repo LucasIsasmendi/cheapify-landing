@@ -1,0 +1,43 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/Navbar';
+import Hero from '../components/Hero';
+import Features from '../components/Features';
+import Savings from '../components/Savings';
+import HowItWorks from '../components/HowItWorks';
+import Testimonials from '../components/Testimonials';
+import Blog from '../components/Blog';
+import Faq from '../components/Faq';
+import Newsletter from '../components/Newsletter';
+import Footer from '../components/Footer';
+import { SEO } from 'astro-seo';
+import Analytics from '../components/Analytics';
+---
+
+<Layout title="Cheapify - Save Money on Vegan Groceries">
+  <SEO
+    title="Cheapify - Save Money on Vegan Groceries"
+    description="Save up to 30% on your vegan grocery shopping with Cheapify. Compare prices, plan meals, and find the best deals on plant-based products."
+    openGraph={{
+      basic: {
+        title: "Cheapify - Save Money on Vegan Groceries",
+        type: "website",
+        image: "https://cheapify.app/og-image.jpg",
+      }
+    }}
+  />
+
+  <div class="min-h-screen bg-white">
+    <Navbar client:load />
+    <Analytics page="homepage" client:load />
+    <Hero client:load />
+    <Features client:load />
+    <Savings client:load />
+    <HowItWorks client:load />
+    <Testimonials client:load />
+    <Blog client:load />
+    <Faq client:load />
+    <Newsletter client:load />
+    <Footer client:load />
+  </div>
+</Layout>

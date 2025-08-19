@@ -1,0 +1,70 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { SEO } from 'astro-seo';
+import BlogCard from '../../components/BlogCard.astro';
+import SearchBar from '../../components/SearchBar';
+import CategoryFilter from '../../components/CategoryFilter';
+import BlogNavbar from '../../components/BlogNavbar';
+import Footer from '../../components/Footer';
+
+const posts = await getCollection('blog');
+const categories = [...new Set(posts.map(post => post.data.category))];
+
+// Sort posts by date
+const sortedPosts = posts.sort((a, b) => 
+  new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
+);
+---
+
+<Layout title="Blog - Cheapify">
+  <SEO
+    title="Vegan Money-Saving Tips & Guides | Cheapify Blog"
+    description="Discover tips, recipes, and strategies for saving money on your vegan lifestyle. Read our latest blog posts about budget-friendly vegan shopping and meal planning."
+    openGraph={{
+      basic: {
+        title: "Vegan Money-Saving Tips & Guides | Cheapify Blog",
+        type: "website",
+        image: "https://cheapify.app/og-image.jpg",
+      },
+      optional: {
+        description: "Discover expert tips, budget-friendly recipes, and smart shopping strategies for saving money on your vegan lifestyle.",
+        siteName: "Cheapify Blog",
+      }
+    }}
+    twitter={{
+      card: "summary_large_image",
+      site: "@cheapify.app",
+      creator: "@cheapify.app",
+      title: "Vegan Money-Saving Tips & Guides | Cheapify Blog",
+      description: "💰 Save money on vegan groceries! Expert tips, budget recipes & smart shopping strategies 🌱 Follow us on Instagram & TikTok! #VeganBudget #PlantBased",
+      image: "https://cheapify.app/og-image.jpg",
+    }}
+  />
+  
+  <BlogNavbar client:load />
+  <main class="container mx-auto px-4 py-8 pt-24">
+    <div class="text-center mb-12">
+      <h1 class="text-4xl font-bold text-gray-800 mb-4">Vegan Money-Saving Blog</h1>
+      <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+        Expert tips, budget-friendly recipes, and smart shopping strategies to help you save money while living your best plant-based life.
+      </p>
+    </div>
+    
+    <div class="flex flex-col md:flex-row gap-6 mb-8">
+      <div class="md:w-3/4">
+        <SearchBar client:load />
+      </div>
+      <div class="md:w-1/4">
+        <CategoryFilter categories={categories} client:load />
+      </div>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {sortedPosts.map(post => (
+        <BlogCard post={post} />
+      ))}
+    </div>
+  </main>
+  <Footer client:load />
+</Layout>

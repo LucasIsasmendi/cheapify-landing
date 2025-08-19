@@ -1,0 +1,113 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { SEO } from 'astro-seo';
+import { formatDate } from '../../utils/date';
+import readingTime from 'reading-time';
+import BlogNavbar from '../../components/BlogNavbar';
+import Footer from '../../components/Footer';
+import SocialShare from '../../components/SocialShare';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+const readingStats = readingTime(post.body);
+---
+
+<Layout title={`${post.data.title} - Cheapify Blog`}>
+  <SEO
+    title={post.data.title}
+    description={post.data.seoDescription || post.data.description}
+    openGraph={{
+      basic: {
+        title: post.data.title,
+        type: "article",
+        image: post.data.image,
+      },
+      optional: {
+        description: post.data.seoDescription || post.data.description,
+        siteName: "Cheapify Blog",
+      }
+    }}
+    twitter={{
+      card: "summary_large_image",
+      site: "@cheapifyapp",
+      creator: "@cheapifyapp",
+      title: post.data.title,
+      description: post.data.seoDescription || post.data.description,
+      image: post.data.image,
+    }}
+  />
+  
+  <BlogNavbar client:load />
+  <main class="container mx-auto px-4 py-8 pt-24">
+    <article class="max-w-3xl mx-auto">
+      <img 
+        src={post.data.image} 
+        alt={post.data.title}
+        class="w-full h-64 object-cover rounded-lg mb-8"
+      />
+      
+      <div class="mb-8">
+        <span class="bg-green-100 text-green-800 text-sm font-medium px-3 py-1 rounded-full">
+          {post.data.category}
+        </span>
+        <span class="text-gray-500 text-sm ml-4">{readingStats.text}</span>
+      </div>
+      
+      <h1 class="text-4xl font-bold text-gray-800 mb-4">
+        {post.data.title}
+      </h1>
+      
+      <div class="flex items-center mb-8">
+        <span class="text-gray-600">By {post.data.author}</span>
+        <span class="mx-2">•</span>
+        <time class="text-gray-600">{formatDate(post.data.pubDate)}</time>
+      </div>
+      
+      <div class="prose prose-lg max-w-none">
+        <Content />
+      </div>
+      
+      <div class="mt-12 border-t border-gray-200 pt-8">
+        <SocialShare 
+          title={post.data.title}
+          description={post.data.description}
+          socialCaption={post.data.socialCaption}
+          url={`https://cheapify.app/blog/${post.slug}`}
+          client:load
+        />
+      </div>
+      
+      <div class="mt-8">
+        <div class="flex flex-wrap gap-2">
+          {post.data.tags.map(tag => (
+            <span class="bg-gray-100 text-gray-800 text-sm px-3 py-1 rounded-full">
+              #{tag}
+            </span>
+          ))}
+        </div>
+      </div>
+    </article>
+    
+    <div class="max-w-3xl mx-auto mt-16">
+      <div class="bg-gray-50 rounded-lg p-8 text-center">
+        <h2 class="text-2xl font-bold text-gray-800 mb-4">Join the Discussion</h2>
+        <p class="text-gray-600 mb-6">
+          We'd love to hear your experiences with vegan grocery shopping and money-saving tips!
+        </p>
+        <p class="text-sm text-gray-500">
+          Comments feature coming soon! In the meantime, reach out to us on social media.
+        </p>
+      </div>
+    </div>
+  </main>
+  <Footer client:load />
+</Layout>

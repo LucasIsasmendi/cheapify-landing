@@ -1,0 +1,11 @@
+{
+  "files": [],
+    "compilerOptions": {
+    "allowJs": true,
+    // Other compiler options...
+  },
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}

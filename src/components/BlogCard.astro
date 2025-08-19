@@ -1,0 +1,46 @@
+---
+import { formatDate } from '../utils/date';
+import readingTime from 'reading-time';
+
+const { post } = Astro.props;
+const readingStats = readingTime(post.body);
+---
+
+<article class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
+  <img 
+    src={post.data.image} 
+    alt={post.data.title}
+    class="w-full h-48 object-cover"
+  />
+  
+  <div class="p-6">
+    <div class="flex items-center gap-4 mb-3">
+      <span class="bg-green-100 text-green-800 text-sm font-medium px-3 py-1 rounded-full">
+        {post.data.category}
+      </span>
+      <span class="text-gray-500 text-sm">{readingStats.text}</span>
+    </div>
+    
+    <h2 class="text-xl font-bold text-gray-800 mb-2">
+      <a href={`/blog/${post.slug}`} class="hover:text-green-600">
+        {post.data.title}
+      </a>
+    </h2>
+    
+    <p class="text-gray-600 mb-4">{post.data.seoDescription || post.data.description}</p>
+    
+    <div class="flex items-center justify-between">
+      <span class="text-sm text-gray-500">By {post.data.author}</span>
+      <time class="text-sm text-gray-500">{formatDate(post.data.pubDate)}</time>
+    </div>
+    
+    <div class="mt-4 pt-4 border-t border-gray-100">
+      <a 
+        href={`/blog/${post.slug}`}
+        class="text-green-600 hover:text-green-700 font-medium text-sm flex items-center"
+      >
+        Read full article →
+      </a>
+    </div>
+  </div>
+</article>

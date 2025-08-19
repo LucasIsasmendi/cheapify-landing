@@ -1,0 +1,111 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { SEO } from 'astro-seo';
+import BlogNavbar from '../../components/BlogNavbar';
+import Footer from '../../components/Footer';
+
+const title = "Delete Account - Cheapify";
+---
+
+<Layout title={title}>
+  <SEO
+    title={title}
+    description="Learn how to delete your Cheapify account and understand what happens to your data"
+  />
+  
+  <BlogNavbar client:load />
+  <main class="container mx-auto px-4 py-8 pt-24">
+    <article class="max-w-3xl mx-auto">
+      <div class="mb-8">
+        <h1 class="text-3xl font-bold text-gray-800 mb-4">Delete Account</h1>
+        <p class="text-gray-600">Learn how to permanently delete your Cheapify account</p>
+      </div>
+      
+      <div class="prose prose-lg max-w-none">
+        <h2>How to Delete Your Account</h2>
+        <p>We understand that sometimes you may want to delete your Cheapify account. We've made this process as straightforward as possible while ensuring your data is handled securely.</p>
+
+        <h3>Steps to Delete Your Account:</h3>
+        <ol>
+          <li><strong>Open the Cheapify App</strong> - Launch the app on your mobile device</li>
+          <li><strong>Go to Settings</strong> - Navigate to your account settings from the main menu</li>
+          <li><strong>Select "Account Management"</strong> - Find this option in your settings menu</li>
+          <li><strong>Choose "Delete Account"</strong> - This will be at the bottom of the account management section</li>
+          <li><strong>Confirm Deletion</strong> - You'll be asked to confirm this action as it cannot be undone</li>
+          <li><strong>Enter Your Password</strong> - For security purposes, you'll need to verify your identity</li>
+          <li><strong>Final Confirmation</strong> - Click "Delete My Account" to complete the process</li>
+        </ol>
+
+        <h3>What Happens When You Delete Your Account?</h3>
+        <p>When you delete your Cheapify account, the following occurs:</p>
+        <ul>
+          <li><strong>Immediate Access Removal:</strong> You will immediately lose access to your account and all associated features</li>
+          <li><strong>Data Deletion:</strong> Your personal information, shopping lists, preferences, and saved deals will be permanently deleted from our servers within 30 days</li>
+          <li><strong>Subscription Cancellation:</strong> Any active premium subscriptions will be automatically cancelled</li>
+          <li><strong>Email Unsubscription:</strong> You will be automatically unsubscribed from all marketing emails</li>
+          <li><strong>Anonymous Data:</strong> Some anonymized usage data may be retained for analytics purposes, but this cannot be linked back to you</li>
+        </ul>
+
+        <h3>Before You Delete Your Account</h3>
+        <p>Please consider the following before proceeding with account deletion:</p>
+        <ul>
+          <li><strong>Export Your Data:</strong> If you want to keep your shopping lists or saved deals, make sure to export or save this information before deletion</li>
+          <li><strong>Premium Subscription:</strong> If you have an active premium subscription, consider the timing of your deletion to avoid unnecessary charges</li>
+          <li><strong>Alternative Options:</strong> You might consider temporarily deactivating your account instead of permanent deletion</li>
+          <li><strong>Contact Support:</strong> If you're deleting due to an issue, our support team might be able to help resolve it</li>
+        </ul>
+
+        <h3>Account Deactivation Alternative</h3>
+        <p>If you're not sure about permanently deleting your account, you can temporarily deactivate it instead:</p>
+        <ul>
+          <li>Your account will be hidden and inaccessible</li>
+          <li>Your data will be preserved</li>
+          <li>You can reactivate your account at any time by logging in</li>
+          <li>Your premium subscription will remain active (you may want to cancel it separately)</li>
+        </ul>
+
+        <h3>Data Retention Policy</h3>
+        <p>In accordance with our Privacy Policy and applicable data protection laws:</p>
+        <ul>
+          <li>Personal data is deleted within 30 days of account deletion</li>
+          <li>Some data may be retained longer if required by law</li>
+          <li>Financial records related to subscriptions may be kept for tax and accounting purposes</li>
+          <li>Anonymized analytics data may be retained indefinitely</li>
+        </ul>
+
+        <h3>Unable to Delete Your Account?</h3>
+        <p>If you're having trouble deleting your account through the app, you can contact our support team:</p>
+        <ul>
+          <li><strong>Email:</strong> support@cheapify.app</li>
+          <li><strong>Subject Line:</strong> "Account Deletion Request"</li>
+          <li><strong>Include:</strong> Your registered email address and reason for deletion</li>
+        </ul>
+
+        <p>Our support team will process your deletion request within 48 hours and confirm once it's complete.</p>
+
+        <h3>After Account Deletion</h3>
+        <p>Once your account is deleted:</p>
+        <ul>
+          <li>You will receive a confirmation email</li>
+          <li>You can create a new account in the future if desired</li>
+          <li>Previous account data cannot be recovered</li>
+          <li>Any referral credits or rewards will be forfeited</li>
+        </ul>
+
+        <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6">
+          <div class="flex">
+            <div class="ml-3">
+              <p class="text-sm text-yellow-700">
+                <strong>Important:</strong> Account deletion is permanent and cannot be undone. Please make sure you've exported any important data before proceeding.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <h3>Need Help?</h3>
+        <p>If you have any questions about deleting your account or need assistance with the process, please don't hesitate to contact our support team at support@cheapify.app. We're here to help make the process as smooth as possible.</p>
+      </div>
+    </article>
+  </main>
+  <Footer client:load />
+</Layout>

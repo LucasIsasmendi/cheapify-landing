@@ -1,0 +1,59 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { SEO } from 'astro-seo';
+import Footer from '../../components/Footer';
+
+const title = "Cookie Policy - Cheapify";
+---
+
+<Layout title={title}>
+  <SEO
+    title={title}
+    description="Cookie Policy for Cheapify - Understanding how we use cookies and similar technologies"
+  />
+
+  <main class="container mx-auto px-4 py-12 max-w-4xl">
+    <h1 class="text-3xl font-bold text-gray-800 mb-8">Cookie Policy</h1>
+    
+    <div class="prose prose-lg max-w-none">
+      <p class="text-gray-600">Last updated: {new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+
+      <h2>1. What Are Cookies</h2>
+      <p>Cookies are small text files that are placed on your device when you visit our website or use our app. They help us provide you with a better experience by:</p>
+      <ul>
+        <li>Remembering your preferences</li>
+        <li>Understanding how you use our service</li>
+        <li>Providing personalized content</li>
+        <li>Improving our services</li>
+      </ul>
+
+      <h2>2. Types of Cookies We Use</h2>
+      <h3>Essential Cookies</h3>
+      <p>Required for the operation of our service. You cannot opt out of these cookies.</p>
+
+      <h3>Analytics Cookies</h3>
+      <p>Help us understand how visitors interact with our service.</p>
+
+      <h3>Functionality Cookies</h3>
+      <p>Remember choices you make to improve your experience.</p>
+
+      <h3>Advertising Cookies</h3>
+      <p>Used to deliver relevant advertisements and track campaign performance.</p>
+
+      <h2>3. Cookie Management</h2>
+      <p>You can control cookies through your browser settings. Note that disabling certain cookies may limit your ability to use some features of our service.</p>
+
+      <h2>4. Third-Party Cookies</h2>
+      <p>We use services from these third parties that may place cookies:</p>
+      <ul>
+        <li>Google Analytics</li>
+        <li>Facebook Pixel</li>
+        <li>Payment processors</li>
+      </ul>
+
+      <h2>5. Contact Us</h2>
+      <p>If you have questions about our cookie policy, please contact us at privacy@cheapify.app.</p>
+    </div>
+  </main>
+  <Footer client:load />
+</Layout>
