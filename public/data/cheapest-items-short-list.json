@@ -1,0 +1,3275 @@
+{
+  "items": {
+    "fruit": {
+      "easy peeler": [
+        [
+          "tc",
+          {
+            "id": "312572968",
+            "n": "Tesco Sweet Easy Peeler Each",
+            "p": 0.3,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£0.30/each",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/5d34d739-4cf7-41d5-a74e-0c68cf4c7ec6/724317c4-fd0b-480c-95dc-9ae1ad0df641.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "1000144509223",
+            "n": "ASDA Garden Gang Super Easy Peelers",
+            "p": 0.83,
+            "u": "Each",
+            "nw": { "t": 500, "u": "g" },
+            "ppuom": "£1.66/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5057172014866"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000271757",
+            "n": "Mini Easy Peelers",
+            "p": 0.89,
+            "q": 1,
+            "u": "pac",
+            "nw": { "t": 500, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/2f636e8c-b991-4db4-8bc1-065a915847f6/{slug}"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "112943450",
+            "n": "Morrisons Savers Easy Peelers",
+            "p": 0.99,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 600, "u": "g" },
+            "ppuom": "1.65/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/a1bde458-6ed2-4bd6-a25a-08c27c0c7d4f/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "549886011",
+            "n": "Ocado Mini Easy Peelers",
+            "p": 1.1,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 500, "u": "g" },
+            "ppuom": "2.2per kg",
+            "img": "https://www.ocado.com/productImages/549/549886011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "apple": [
+        [
+          "al",
+          {
+            "id": "000000000340660001",
+            "n": "Apple Snack Pack",
+            "p": 0.39,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 80, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/0f732f8f-ac55-4326-a419-5ac9c9773132/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "910001413505",
+            "n": "ASDA Pineapple Lolly",
+            "p": 0.44,
+            "u": "Each",
+            "nw": { "t": 80, "u": "g" },
+            "ppuom": "£5.50/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5054070299203"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "253559147",
+            "n": "Large Gala Apples Loose Class 1",
+            "p": 0.44,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£2.75/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/a8b38a5e-abd5-460e-b96a-b755ec02a031/a2cd83e2-f5e8-41cc-b97b-63d15b8f88a7.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "109861517",
+            "n": "Morrisons Market Street Loose Golden Delicious Apples",
+            "p": 0.5,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "0.50/each",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/c26353d2-0209-4bfa-93e9-9124f6e89cca/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "66275011",
+            "n": "Ocado Ripe & Ready Crownless Pineapple",
+            "p": 0.99,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": null,
+            "img": "https://www.ocado.com/productImages/662/66275011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "banana": [
+        [
+          "al",
+          {
+            "id": "000000000000267186",
+            "n": "Banana",
+            "p": 0.16,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/d76dff17-6329-4207-9693-cdbbc26c07e8/{slug}"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "275280804",
+            "n": "Tesco Bananas Loose",
+            "p": 0.16,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 177.77777777777777, "u": "g" },
+            "ppuom": "£0.90/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/c41bb276-be81-4df7-9401-447de729005a/93b0e73c-cfad-4a88-991b-d6dd6bd7d1a8.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "108491948",
+            "n": "Morrisons Loose Banana",
+            "p": 0.19,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 0.19, "u": "KG" },
+            "ppuom": "0.99/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/4bb98cbc-e42e-4881-8941-ee807bc7f8e5/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "579993011",
+            "n": "Fyffes Rainforest Alliance Bananas",
+            "p": 0.8,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 5, "u": "u" },
+            "ppuom": "0.16each",
+            "img": "https://www.ocado.com/productImages/579/579993011_0_150x150.jpg"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "1000383217988",
+            "n": "ASDA Garden Gang 7 Brilliant Bananas (Colour may vary)",
+            "p": 0.88,
+            "u": "Each",
+            "nw": { "t": 7, "u": "u" },
+            "ppuom": "12.6p/each",
+            "img": "https://ui.assets-asda.com:443/dm/5063089466445"
+          }
+        ]
+      ],
+      "blueberries": [
+        [
+          "al",
+          {
+            "id": "000000000000276894",
+            "n": "Wonky Blueberries",
+            "p": 1.09,
+            "q": 1,
+            "u": "pac",
+            "nw": { "t": 125, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/6fef5c20-6326-4b56-a20b-f53b886d9366/{slug}"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "113455600",
+            "n": "Morrisons Savers Blueberries ",
+            "p": 1.29,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 125, "u": "g" },
+            "ppuom": "10.32/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/23ca369c-8e13-4656-8a3b-54d31c930e0e/300x300.jpg"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "292248675",
+            "n": "Rosedene Farms Blueberries 150G",
+            "p": 1.35,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 150, "u": "g" },
+            "ppuom": "£9.00/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/c327c7d2-a0e3-4a64-b2a2-dce45907c81c/b56b44c7-8fd1-4941-9f9c-19952cc0508c.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "53687011",
+            "n": "Ocado Blueberries",
+            "p": 1.9,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 150, "u": "g" },
+            "ppuom": "12.67per kg",
+            "img": "https://www.ocado.com/productImages/536/53687011_0_150x150.jpg"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "910003101794",
+            "n": "ASDA Organic Blueberries",
+            "p": 2.36,
+            "u": "Each",
+            "nw": { "t": 125, "u": "g" },
+            "ppuom": "£18.88/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5054781593515"
+          }
+        ]
+      ],
+      "cherries": [
+        [
+          "as",
+          {
+            "id": "1000373536205",
+            "n": "ASDA Raisins, Berries & Cherries 250g",
+            "p": 1.98,
+            "u": "Each",
+            "nw": { "t": 250, "u": "g" },
+            "ppuom": "79.2p/100g",
+            "img": "https://ui.assets-asda.com:443/dm/5057172859504"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "266291241",
+            "n": "Tesco Cherries Punnet 200G",
+            "p": 2.4,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 200, "u": "g" },
+            "ppuom": "£12.00/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/70c0f474-726a-4fb5-a743-47a69e2585cc/1c0278bc-2de5-49d8-978b-9d16264c8df1.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "108314950",
+            "n": "Morrisons Cherries",
+            "p": 2.5,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 200, "u": "g" },
+            "ppuom": "12.50/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/a6b3cba5-6267-4e42-b70b-c6fb194f0306/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "66629011",
+            "n": "Ocado Cherries",
+            "p": 3,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 200, "u": "g" },
+            "ppuom": "15per kg",
+            "img": "https://www.ocado.com/productImages/666/66629011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "kiwi": [
+        [
+          "ms",
+          {
+            "id": "108409596",
+            "n": "Morrisons Loose Kiwi Fruit",
+            "p": 0.3,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "0.30/each",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/77bf9b2e-9f2b-4a5f-abe7-a55553d41ad1/300x300.jpg"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "317551907",
+            "n": "Zespri Jumbo Sungold Kiwifruit",
+            "p": 0.95,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£0.95/each",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/ccb68509-4d74-4ea2-a7da-7f979f345aa0/2def4fe6-cdc0-4e76-b6fd-258ca93ac0ae.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000263719",
+            "n": "Kiwis",
+            "p": 1.19,
+            "q": 1,
+            "u": "pac",
+            "nw": { "t": 6, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/435d8b68-1fef-41ce-a951-afaa968142f0/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "910003095377",
+            "n": "JUST ESSENTIALS by ASDA Kiwis",
+            "p": 1.19,
+            "u": "Each",
+            "nw": { "t": 6, "u": "u" },
+            "ppuom": "19.8p/each",
+            "img": "https://ui.assets-asda.com:443/dm/5054781580805"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "572199011",
+            "n": "Ocado Ripe & Ready Kiwi Fruit",
+            "p": 1.5,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 4, "u": "u" },
+            "ppuom": "0.375each",
+            "img": "https://www.ocado.com/productImages/572/572199011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "lemon": [
+        [
+          "as",
+          {
+            "id": "24662",
+            "n": "ASDA Loose Lemon",
+            "p": 0.28,
+            "u": "Each",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "28.0p/each",
+            "img": "https://ui.assets-asda.com:443/dm/0000000006194"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "253556398",
+            "n": "Tesco Lemons Each",
+            "p": 0.3,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£0.30/each",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/485720e4-3f39-4a10-9c1e-c222246be928/607406e9-6108-4348-ab3f-1df0a84c89c8.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "108379999",
+            "n": "Morrisons Loose Lemon",
+            "p": 0.3,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "0.30/each",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/9931427b-81ce-425e-8ba1-903c1f9a9ee0/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "543054011",
+            "n": "Ocado Lemons Twin Pack",
+            "p": 0.75,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 2, "u": "u" },
+            "ppuom": "0.375each",
+            "img": "https://www.ocado.com/productImages/543/543054011_0_150x150.jpg"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000268496",
+            "n": "Wonky Lemons",
+            "p": 0.79,
+            "q": 1,
+            "u": "pac",
+            "nw": { "t": 4, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/15e4b503-386a-4a01-a0f6-12c4730502ec/{slug}"
+          }
+        ]
+      ],
+      "orange": [
+        [
+          "tc",
+          {
+            "id": "253554014",
+            "n": "Tesco Oranges Each",
+            "p": 0.3,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£0.30/each",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/2c33ec1a-56c7-4492-a690-f4886be92e94/f01d49e7-f80d-4375-af08-a521fc31974a_1423470130.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "582923011",
+            "n": "Ocado Orange",
+            "p": 0.3,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://www.ocado.com/productImages/582/582923011_0_150x150.jpg"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "108378785",
+            "n": "Morrisons Loose Orange",
+            "p": 0.3,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "0.30/each",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/ff101d09-b283-4a37-93be-77228ca9772c/300x300.jpg"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000537836",
+            "n": "Wonky Oranges",
+            "p": 0.99,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 5, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/146b7b3f-9bb2-421c-80bd-c01703e5d3fb/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "910003095074",
+            "n": "JUST ESSENTIALS by ASDA Oranges",
+            "p": 0.99,
+            "u": "Each",
+            "nw": { "t": 5, "u": "u" },
+            "ppuom": "19.8p/each",
+            "img": "https://ui.assets-asda.com:443/dm/5054781580782"
+          }
+        ]
+      ]
+    },
+    "pbvsn": {
+      "milk": {
+        "soya": [
+          [
+            "tc",
+            {
+              "id": "300661949",
+              "n": "The Grower's Harvest Soya Drink Unsweetened 1L",
+              "p": 0.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "l" },
+              "ppuom": "£0.50/litre",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/e4a9a324-bb5b-460e-a762-aeb949aaf255/0dfe7f84-74d3-44bf-b9a0-5aec28553021.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000000417612",
+              "n": "Soya Drink Unsweetened",
+              "p": 0.85,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 1000, "u": "ml" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/4206b2a7-7980-433f-a08b-337e7ceda7f3/{slug}"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "922124",
+              "n": "Alpro Soya Long Life Alternative to Single Cream",
+              "p": 1.2,
+              "u": "Each",
+              "nw": { "t": 250, "u": "ml" },
+              "ppuom": "48.0p/100ml",
+              "img": "https://ui.assets-asda.com:443/dm/5411188511328"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "16799011",
+              "n": "Alpro Soya Long Life Alternative to Single Cream",
+              "p": 1.3,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 250, "u": "ml" },
+              "ppuom": "0.52per 100ml",
+              "img": "https://www.ocado.com/productImages/167/16799011_0_150x150.jpg"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "103051311",
+              "n": "Morrisons Long Life Original Soya Drink ",
+              "p": 1.35,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "l" },
+              "ppuom": "1.35/litre",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/05e7f6ed-f72c-4765-8df7-88213b4b46ea/300x300.jpg"
+            }
+          ]
+        ],
+        "almond": [
+          [
+            "al",
+            {
+              "id": "000000000000417610",
+              "n": "Unsweetened Almond Milk",
+              "p": 0.99,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 1000, "u": "ml" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/f91f11c0-db27-4dfd-9fb7-70ea9d3409d8/{slug}"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000383224876",
+              "n": "Alpro No Sugars Nutty Almond 500ml",
+              "p": 1.14,
+              "u": "Each",
+              "nw": { "t": 500, "u": "ml" },
+              "ppuom": "£2.28/lt",
+              "img": "https://ui.assets-asda.com:443/dm/5411188139904"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "110114412",
+              "n": "Morrisons Sweetened Almond Milk",
+              "p": 1.25,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "l" },
+              "ppuom": "0.13/100ml",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/e58db491-bbfc-42d9-bffb-398814e2954d/300x300.jpg"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "316547434",
+              "n": "Alpro No Sugars Nutty Almond Drink 500ml",
+              "p": 1.3,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 500, "u": "ml" },
+              "ppuom": "£2.60/litre",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/c481a998-8511-474d-bba5-09cf3282cd9b/21189d28-509b-4816-8075-5aeb65fa1176_614663061.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "66234011",
+              "n": "Alpro Almond Long Life Drink",
+              "p": 1.4,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "l" },
+              "ppuom": "1.4per litre",
+              "img": "https://www.ocado.com/productImages/662/66234011_0_150x150.jpg"
+            }
+          ]
+        ]
+      },
+      "mayo": [
+        [
+          "tc",
+          {
+            "id": "254174289",
+            "n": "Princes Tuna & Mayonnaise Paste 75G",
+            "p": 0.65,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 75, "u": "g" },
+            "ppuom": "£0.87/100g",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/216956ba-501a-45f4-9959-4b0ea025f9de/558f83b3-1e58-4173-ba70-7cfb85870b59_689828801.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "1000383248128",
+            "n": "Loma Linda Mayo Tuno 142g",
+            "p": 1.18,
+            "u": "Each",
+            "nw": { "t": 142, "u": "g" },
+            "ppuom": "83.1p/100g",
+            "img": "https://ui.assets-asda.com:443/dm/1230000037136"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "111152947",
+            "n": "Thai Dragon Sriracha Mayonnaise ",
+            "p": 1.9,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 200, "u": "ml" },
+            "ppuom": "0.95/100ml",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/998a0d36-5239-4079-b59e-609bd7b2534a/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "591388011",
+            "n": "LEON Korean Style Chilli Mayo",
+            "p": 2.05,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 240, "u": "ml" },
+            "ppuom": "0.8509per 100ml",
+            "img": "https://www.ocado.com/productImages/591/591388011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "cheese": {
+        "soft": [
+          [
+            "al",
+            {
+              "id": "000000000542956004",
+              "n": "Garlic & Herb Coconut Oil Based Vegan Cheese Soft Spread",
+              "p": 1.95,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 170, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/d43347fd-6351-40a4-9f71-2205318e305f/{slug}"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "315854360",
+              "n": "Tesco Free From Coconut Oil Alternative to Soft Cheese 150g",
+              "p": 2,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "£13.33/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/00b18cc3-8176-46c3-83b7-cf6645ed7839/4cbc09dc-be42-401b-ae4a-dfec4d496176_1266042179.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "110764773",
+              "n": "Morrisons Free From Garlic & Herb Soft Cheese ",
+              "p": 2.25,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 170, "u": "g" },
+              "ppuom": "13.24/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/c15caf2d-bb83-47c1-b783-9973d039c03d/300x300.jpg"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "910001579697",
+              "n": "Violife Creamy Original Soft Cheese Alternative",
+              "p": 2.34,
+              "u": "Each",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "£11.70/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5202390013836"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "362618011",
+              "n": "Violife Non-Dairy Cheese Alternative Soft Original",
+              "p": 2.75,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "13.75per kg",
+              "img": "https://www.ocado.com/productImages/362/362618011_0_150x150.jpg"
+            }
+          ]
+        ],
+        "slice": [
+          [
+            "al",
+            {
+              "id": "000000000542956002",
+              "n": "Mature Coconut Oil Based Vegan Cheese Slices 9 Pack",
+              "p": 1.95,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 180, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/360793ff-64a8-4a7a-a047-76e39561eb19/{slug}"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000383164707",
+              "n": "Cathedral City Our Plant Based 6 Dairy Free Cheese Alternative Slices 150g",
+              "p": 2.32,
+              "u": "Each",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "£15.47/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5000295157446"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "316535448",
+              "n": "Violife Original Slices Vegan Cheese Alternative 175g",
+              "p": 2.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 175, "u": "g" },
+              "ppuom": "£14.29/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/aaed5515-12dd-4f22-bd33-12c4f3f524cc/7f83f42d-7bcf-4746-af03-625727545ad7_617278322.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "113040666",
+              "n": "Cathedral City Plant Based Mature Cheddar Cheese Flavour Vegan Slices",
+              "p": 2.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "16.67/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/f380a694-95fc-4ac9-a0d5-1c6ac7580188/300x300.jpg"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "584091011",
+              "n": "Sheese Red Leicester Style Sliced",
+              "p": 2.65,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 180, "u": "g" },
+              "ppuom": "14.72per kg",
+              "img": "https://www.ocado.com/productImages/584/584091011_0_150x150.jpg"
+            }
+          ]
+        ],
+        "parmesan": [
+          [
+            "oc",
+            {
+              "id": "362615011",
+              "n": "Violife Non-Dairy Cheese Alternative Prosociano With Parmesan Flavour",
+              "p": 3.75,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "25per kg",
+              "img": "https://www.ocado.com/productImages/362/362615011_0_150x150.jpg"
+            }
+          ]
+        ]
+      },
+      "meat free": {
+        "chicken breast": [
+          [
+            "tc",
+            {
+              "id": "313175285",
+              "n": "Tesco Plant Chef 2 Meat Free No-Chicken Breasts 180G",
+              "p": 1.65,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 180, "u": "g" },
+              "ppuom": "£9.17/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/7ea36f4c-4cb3-42a7-ac30-27128b2510ab/6d6f8422-1029-4ee8-a27d-fe4f2af2470c.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000383168998",
+              "n": "Vivera 2 Plant Chicken Breast Style 180g",
+              "p": 2.42,
+              "u": "Each",
+              "nw": { "t": 180, "u": "g" },
+              "ppuom": "£13.44/kg",
+              "img": "https://ui.assets-asda.com:443/dm/8718300882944"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "627674011",
+              "n": "The Vegetarian Butcher Impeckable Vegan Chicken Breast",
+              "p": 2.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 180, "u": "g" },
+              "ppuom": "1.3871per 100g",
+              "img": "https://www.ocado.com/productImages/627/627674011_0_150x150.jpg"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "113429145",
+              "n": "The Vegetarian Butcher Impeckable Vegan Chicken Breast Fillet",
+              "p": 2.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 180, "u": "g" },
+              "ppuom": "13.89/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/721e9042-8560-4a8d-8955-c406bfd38922/300x300.jpg"
+            }
+          ]
+        ],
+        "chicken": [
+          [
+            "al",
+            {
+              "id": "000000000371355003",
+              "n": "No Chicken Bakes 2 Pack",
+              "p": 0.99,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 280, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/b822fc88-6c0b-4c09-816e-0ff3cc34f86f/{slug}"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000383164887",
+              "n": "Goldenfry Original Gravy Granules Chicken",
+              "p": 1.2,
+              "u": "Each",
+              "nw": { "t": 300, "u": "g" },
+              "ppuom": "40.0p/100g",
+              "img": "https://ui.assets-asda.com:443/dm/5010105001845"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "649451011",
+              "n": "Biff's Plant Packed No Chicken Wings",
+              "p": 1.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "0.75per 100g",
+              "img": "https://www.ocado.com/productImages/649/649451011_0_150x150.jpg"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "321549937",
+              "n": "Wall's Vegan Chicken & Mushroom Slice 180g",
+              "p": 2,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 180, "u": "g" },
+              "ppuom": "£1.11/100g",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/e974edd5-070f-46ff-919e-c505ceea40e3/b2ae8841-83ce-4235-92d7-dfa420f8851e.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "113609437",
+              "n": "Richmond Meat-Free Deli Slices Chicken ",
+              "p": 2,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 90, "u": "g" },
+              "ppuom": "2.22/100gram",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/1e01bc50-5ed4-4174-bfc5-10adcb8d7e78/300x300.jpg"
+            }
+          ]
+        ],
+        "meatball": [
+          [
+            "tc",
+            {
+              "id": "277081824",
+              "n": "Tesco Tomato & Basil Sauce For Meatballs 500G",
+              "p": 0.69,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 500, "u": "g" },
+              "ppuom": "£0.14/100g",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/6cbb7f36-4bfa-4530-ae76-db8f70830fa3/2717252f-bc12-4f1f-91ca-f05896332e18_285155758.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "910003001155",
+              "n": "Plant Based by ASDA Meat-Free Meatballs",
+              "p": 2,
+              "u": "Each",
+              "nw": { "t": 400, "u": "g" },
+              "ppuom": "£5.00/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5054781509769"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "467340011",
+              "n": "Birds Eye Green Cuisine Vegan Meatballs",
+              "p": 3,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 280, "u": "g" },
+              "ppuom": "1.07per 100g",
+              "img": "https://www.ocado.com/productImages/467/467340011_0_150x150.jpg"
+            }
+          ]
+        ],
+        "steak": [
+          [
+            "as",
+            {
+              "id": "1000383208632",
+              "n": "Pukka Vegan No Steak Pie",
+              "p": 1.48,
+              "u": "Each",
+              "nw": { "t": 210, "u": "g" },
+              "ppuom": "70.5p/100g",
+              "img": "https://ui.assets-asda.com:443/dm/5030756007775"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "317863017",
+              "n": "Pukka Vegan No Steak Slice 170g",
+              "p": 1.95,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 170, "u": "g" },
+              "ppuom": "£1.15/100g",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/3ae8c0eb-88a8-4786-aa52-ff4ecb65cf29/7345c720-136d-4e13-8ef9-d435f95e2223.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "645702011",
+              "n": "Vivera Plant Steaks",
+              "p": 2.85,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "1.43per 100g",
+              "img": "https://www.ocado.com/productImages/645/645702011_0_150x150.jpg"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "102751788",
+              "n": "Quorn Vegetarian Peppered Steaks 2 Pack",
+              "p": 3.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 196, "u": "g" },
+              "ppuom": "17.86/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/4097a729-2c2f-452c-963e-ac40225834f3/300x300.jpg"
+            }
+          ]
+        ]
+      }
+    },
+    "prtn": {
+      "tofu": [
+        [
+          "al",
+          {
+            "id": "000000000513086002",
+            "n": "Organic Smoked Tofu",
+            "p": 0.89,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 180, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/a8489baf-688b-4979-ba43-adcf9fb2ad55/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "1000383248379",
+            "n": "Plant Based by ASDA Organic Super Firm Tofu 200g",
+            "p": 1.1,
+            "u": "Each",
+            "nw": { "t": 200, "u": "g" },
+            "ppuom": "£5.50/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5063089484395  "
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "114271095",
+            "n": "Morrisons Plant Revolution Super Firm Organic Tofu ",
+            "p": 1.2,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 200, "u": "g" },
+            "ppuom": "6.00/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/e5749e3f-d68e-4c96-882b-10652f756e99/300x300.jpg"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "317747910",
+            "n": "Yutaka Silken Tofu 308g",
+            "p": 1.85,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 308, "u": "g" },
+            "ppuom": "£0.60/100g",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/dd5f599b-3121-486d-9031-ab7b0a410bcc/196518e3-acb2-43c0-b28e-36155b00026c_534185574.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "71222011",
+            "n": "Clearspring Organic Japanese Silken & Smooth Tofu",
+            "p": 1.85,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 300, "u": "g" },
+            "ppuom": "0.617per 100g",
+            "img": "https://www.ocado.com/productImages/712/71222011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "beans": {
+        "butter bean": [
+          [
+            "al",
+            {
+              "id": "000000000285956001",
+              "n": "Butter Beans In Water",
+              "p": 0.49,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 235, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/19812c6a-5549-4350-ac70-6d85427e1bf9/{slug}"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "110428155",
+              "n": "Morrisons Butter Beans In Water (400g)",
+              "p": 0.49,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 240, "u": "g" },
+              "ppuom": "2.04/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/aafd1176-b32f-4277-8afb-1c8e3b2ee510/300x300.jpg"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "314313795",
+              "n": "Laila Butter Beans 400g",
+              "p": 0.8,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 400, "u": "g" },
+              "ppuom": "£2.00/kg DR.WT",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/7358ee95-bd79-4557-82d0-ddcec86e8836/292cda7d-e441-45d3-8eb8-c9f32b7cfad0_501912212.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "460400011",
+              "n": "Cooks & Co - Butter Beans",
+              "p": 1.05,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 400, "u": "g" },
+              "ppuom": "0.263per 100g",
+              "img": "https://www.ocado.com/productImages/460/460400011_0_150x150.jpg"
+            }
+          ]
+        ],
+        "black beans": [
+          [
+            "al",
+            {
+              "id": "000000000336006001",
+              "n": "Black Beans In Water",
+              "p": 0.49,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 390, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/5cb92c6e-197b-40bb-a76f-f5cd7b2b78a5/{slug}"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "65977011",
+              "n": "Biona Organic Black Beans in Water",
+              "p": 1.6,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 400, "u": "g" },
+              "ppuom": "0.4per 100g",
+              "img": "https://www.ocado.com/productImages/659/65977011_0_150x150.jpg"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "261633174",
+              "n": "East End Black Eye Beans 500G",
+              "p": 1.9,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 500, "u": "g" },
+              "ppuom": "£3.80/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/399ee3cb-a9c5-43a5-a288-60142e587424/b8301300-00eb-4c26-85ae-50ce135e78b3_1111571486.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "112495108",
+              "n": "Old El Paso Mild Black Beans 425g",
+              "p": 2.4,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 425, "u": "g" },
+              "ppuom": "0.56/100gram",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/f78b1193-d718-48bb-b80a-065ff4ad7495/300x300.jpg"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000383190242",
+              "n": "Laila Black Eye Beans 2kg",
+              "p": 3.99,
+              "u": "Each",
+              "nw": { "t": 2000, "u": "g" },
+              "ppuom": "£2.00/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5020580014100"
+            }
+          ]
+        ],
+        "beans": [
+          [
+            "tc",
+            {
+              "id": "254876305",
+              "n": "Tesco Baked Beans In Tomato Sauce 220G",
+              "p": 0.25,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 220, "u": "g" },
+              "ppuom": "£1.14/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/ee454895-8935-4e19-a536-a128ce1f8fa7/938dfa57-8f7c-41b5-a95f-a8d9d32724be_65993902.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000000541280",
+              "n": "Baked Beans",
+              "p": 0.27,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 410, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/981154f9-9b08-4624-9687-a66afbd673b8/{slug}"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000383226541",
+              "n": "ASDA Jelly Beans 50g",
+              "p": 0.38,
+              "u": "Each",
+              "nw": { "t": 50, "u": "g" },
+              "ppuom": "76.0p/100g",
+              "img": "https://ui.assets-asda.com:443/dm/5063089518601"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "110428032",
+              "n": "Morrisons Borlotti Beans In Water (400g)",
+              "p": 0.57,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 240, "u": "g" },
+              "ppuom": "2.38/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/e5c4ca16-8c91-4ca6-8ea9-af18c00a180f/300x300.jpg"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "12278011",
+              "n": "Heinz Baked Beans ",
+              "p": 1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "0.5per 100g",
+              "img": "https://www.ocado.com/productImages/122/12278011_0_150x150.jpg"
+            }
+          ]
+        ]
+      },
+      "lentils": {
+        "lentils": [
+          [
+            "as",
+            {
+              "id": "1000046667794",
+              "n": "Napolina Lentils in Water",
+              "p": 0.78,
+              "u": "Each",
+              "nw": { "t": 400, "u": "g" },
+              "ppuom": "£2.94/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5000232001108"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "607140011",
+              "n": "Cirio Lentils",
+              "p": 0.8,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 380, "u": "g" },
+              "ppuom": "0.2104per 100g",
+              "img": "https://www.ocado.com/productImages/607/607140011_0_150x150.jpg"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "110203685",
+              "n": "Napolina Lentils In Water 400g",
+              "p": 0.85,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 240, "u": "g" },
+              "ppuom": "3.54/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/d71ffec2-b4b2-444b-96ed-a53415f4beb9/300x300.jpg"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "297021273",
+              "n": "Napolina Lentils 400G",
+              "p": 1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 400, "u": "g" },
+              "ppuom": "£2.50/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/1b710e26-6d32-46f6-8491-1f2638b6860c/1ca4eaff-82bc-48bd-bf27-b3fd9476f5f8_1397708848.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000336243001",
+              "n": "Good Grains French Inspired Lentils Pouch",
+              "p": 1.05,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 250, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/5a437fd2-1fd0-47e9-b713-072339d73f01/{slug}"
+            }
+          ]
+        ]
+      },
+      "peas": {
+        "garden peas": [
+          [
+            "al",
+            {
+              "id": "000000000000335577",
+              "n": "Garden Peas",
+              "p": 0.28,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 185, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/f0ec6314-af62-4c18-b5cf-619c1ba6b1bb/{slug}"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "300594655",
+              "n": "Growers Harvest Garden Peas In Water 300G",
+              "p": 0.28,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 300, "u": "g" },
+              "ppuom": "£1.51/kg DR.WT",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/256f3305-7f7e-4587-88bd-90038f52e42a/d367d73a-056e-4e75-ac46-f91357a217c0_1702103814.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "910002646407",
+              "n": "ASDA Garden Peas in Water 290g",
+              "p": 0.55,
+              "u": "Each",
+              "nw": { "t": 290, "u": "g" },
+              "ppuom": "£3.14/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5054781025672"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "569001011",
+              "n": "M&S Garden Peas in Water",
+              "p": 1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 290, "u": "g" },
+              "ppuom": "0.345per 100g",
+              "img": "https://www.ocado.com/productImages/569/569001011_0_150x150.jpg"
+            }
+          ]
+        ]
+      }
+    },
+    "salad": {
+      "tomato": [
+        [
+          "tc",
+          {
+            "id": "254876305",
+            "n": "Tesco Baked Beans In Tomato Sauce 220G",
+            "p": 0.25,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 220, "u": "g" },
+            "ppuom": "£1.14/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/ee454895-8935-4e19-a536-a128ce1f8fa7/938dfa57-8f7c-41b5-a95f-a8d9d32724be_65993902.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000275259",
+            "n": "Baby Plum Tomatoes",
+            "p": 0.59,
+            "q": 1,
+            "u": "pac",
+            "nw": { "t": 250, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/c75cad26-8523-49f6-8a16-962752967351/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "910003082118",
+            "n": "JUST ESSENTIALS by ASDA Cherry Tomatoes",
+            "p": 0.62,
+            "u": "Each",
+            "nw": { "t": 250, "u": "g" },
+            "ppuom": "£2.48/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5054781512301"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "113749923",
+            "n": "Morrisons Savers Tomatoes ",
+            "p": 0.68,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 250, "u": "g" },
+            "ppuom": "2.72/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/35260e5a-0197-480d-abff-84eec73adb65/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "65254011",
+            "n": "Ocado Baby Plum Tomatoes",
+            "p": 1,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 300, "u": "g" },
+            "ppuom": "3.33per kg",
+            "img": "https://www.ocado.com/productImages/652/65254011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "avocado": [
+        [
+          "tc",
+          {
+            "id": "255903025",
+            "n": "Tesco Ripe & Ready Avocado",
+            "p": 0.75,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£0.75/each",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/034f9036-44d6-41a3-bbab-52b1be90993b/de99258a-2be1-419c-8ed8-7dadb840641b.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "654204011",
+            "n": "Ocado Medium Avocado Loose",
+            "p": 0.75,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://www.ocado.com/productImages/654/654204011_0_150x150.jpg"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000264079",
+            "n": "Large Ripe & Ready Avocado",
+            "p": 0.89,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/cbe2d711-5934-47b1-8a22-52b9f61a70cc/{slug}"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "103853612",
+            "n": "Morrisons Large Ripened Avocado",
+            "p": 0.89,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "0.89/each",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/054b3a01-1dd5-44b4-87cf-74e3cf6cb2ab/300x300.jpg"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "1000230965240",
+            "n": "ASDA Organic Ripe Avocado",
+            "p": 1.36,
+            "u": "Each",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£1.36/each",
+            "img": "https://ui.assets-asda.com:443/dm/5057172440023"
+          }
+        ]
+      ],
+      "bags": {
+        "spinach": [
+          [
+            "as",
+            {
+              "id": "1000035227559",
+              "n": "ASDA Beetroot, Baby Spinach & Baby Kale Salad",
+              "p": 0.88,
+              "u": "Each",
+              "nw": { "t": 120, "u": "g" },
+              "ppuom": "73.3p/100g",
+              "img": "https://ui.assets-asda.com:443/dm/5054781744511"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "272107544",
+              "n": "Fresh & Naked Spinach 125G",
+              "p": 1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 125, "u": "g" },
+              "ppuom": "£8.00/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/01c5c7b7-f9ff-448e-8bc8-a19ce2d51f87/cf33b778-50dd-4e44-b147-17b04cec5bb6.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "310608011",
+              "n": "Ocado Baby Spinach",
+              "p": 1.8,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 220, "u": "g" },
+              "ppuom": "0.818per 100g",
+              "img": "https://www.ocado.com/productImages/310/310608011_0_150x150.jpg"
+            }
+          ]
+        ]
+      }
+    },
+    "sndfm": {
+      "seeds": {
+        "sunflower seeds": [
+          [
+            "oc",
+            {
+              "id": "632822011",
+              "n": "Cypressa Roasted & Salted Sunflower Seeds",
+              "p": 1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 100, "u": "g" },
+              "ppuom": "1per 100g",
+              "img": "https://www.ocado.com/productImages/632/632822011_0_150x150.jpg"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000375030300",
+              "n": "ASDA Sunflower Seeds 150g",
+              "p": 1.12,
+              "u": "Each",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "7.5p/10g",
+              "img": "https://ui.assets-asda.com:443/dm/5057172859771"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000310513002",
+              "n": "Sunflower Seeds",
+              "p": 1.15,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 250, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/bda76f6e-e824-4261-98cb-bad8456a600e/{slug}"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "112441441",
+              "n": "Morrisons Sunflower Seeds ",
+              "p": 1.19,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "0.79/100gram",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/9ae4f661-48ad-499b-ace6-80401c3f6ff4/300x300.jpg"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "266386982",
+              "n": "Tesco Sunflower Seeds 150G",
+              "p": 1.8,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "£12.00/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/fbe675a1-7973-4561-bd0a-12394138eb10/e9b1959b-50d5-4fbb-9cc5-6c661710bbc3.jpeg?h=225&w=225"
+            }
+          ]
+        ],
+        "seed mix": [
+          [
+            "oc",
+            {
+              "id": "552661011",
+              "n": "M&S Savoury Seed Mix with Tamari Seasoning",
+              "p": 1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 50, "u": "g" },
+              "ppuom": "2per 100g",
+              "img": "https://www.ocado.com/productImages/552/552661011_0_150x150.jpg"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000375030306",
+              "n": "ASDA Three Seed Mix 150g",
+              "p": 1.04,
+              "u": "Each",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "6.9p/10g",
+              "img": "https://ui.assets-asda.com:443/dm/5057172859818"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000310513001",
+              "n": "Seed Mix",
+              "p": 1.15,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 250, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/c7c69f0e-c50f-4fcb-bcb1-f77aa1fdc62c/{slug}"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "114484761",
+              "n": "Fudco Sunflower & Pumpkin Seed Mix",
+              "p": 2.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 250, "u": "g" },
+              "ppuom": "1.00/100gram",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/bfff5637-956f-44cc-a3ab-15fb9d1923d8/300x300.jpg"
+            }
+          ]
+        ]
+      },
+      "nuts": {
+        "mixed nuts": [
+          [
+            "tc",
+            {
+              "id": "299497679",
+              "n": "Tesco Mixed Nuts & Pecans 25G",
+              "p": 0.7,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 25, "u": "g" },
+              "ppuom": "£28.00/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/0c844845-26a3-4882-8bdd-da93f3f0b1dd/713d801c-9b08-4ad5-a735-7ec609cccc4d.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "300870011",
+              "n": "Graze Protein Salt & Pepper Vegan Mixed Nuts Snack",
+              "p": 1.2,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 28, "u": "g" },
+              "ppuom": "4.29per 100g",
+              "img": "https://www.ocado.com/productImages/300/300870011_0_150x150.jpg"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000000384145",
+              "n": "Mixed Nuts",
+              "p": 1.69,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 200, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/a5d61dec-ff05-409a-949d-e4809345c2d4/{slug}"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "112705494",
+              "n": "Morrisons Mixed Nuts",
+              "p": 2,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 180, "u": "g" },
+              "ppuom": "1.11/100gram",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/b64c970a-99ae-4ed7-b46f-87b735bfdf24/300x300.jpg"
+            }
+          ]
+        ],
+        "almonds": [
+          [
+            "tc",
+            {
+              "id": "299497656",
+              "n": "Tesco Almonds 25G",
+              "p": 0.7,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 25, "u": "g" },
+              "ppuom": "£28.00/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/1ab84c88-7f3c-44d7-b86d-dd5719ef1f2a/ebea79df-7d30-4c41-bc0d-ec52e7777f14.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000383247139",
+              "n": "ASDA Almonds 60g",
+              "p": 0.97,
+              "u": "Each",
+              "nw": { "t": 60, "u": "g" },
+              "ppuom": "£1.62/100g",
+              "img": "https://ui.assets-asda.com:443/dm/5063089527962"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "107631881",
+              "n": "Morrisons Almonds          ",
+              "p": 0.99,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 60, "u": "g" },
+              "ppuom": "1.65/100gram",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/2fb3434e-1ab2-4e6d-a670-ead3a9503d58/300x300.jpg"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000496633001",
+              "n": "Ground Almonds",
+              "p": 1.09,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 150, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/4d49bf32-caa9-47a5-8a00-268c9033f4c5/{slug}"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "441997011",
+              "n": "Mr Filbert's French Rosemary Almonds",
+              "p": 1.45,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 40, "u": "g" },
+              "ppuom": "3.625per 100g",
+              "img": "https://www.ocado.com/productImages/441/441997011_0_150x150.jpg"
+            }
+          ]
+        ],
+        "nuts": [
+          [
+            "al",
+            {
+              "id": "000000000514950001",
+              "n": "Fully Loaded Buffalo Wing Peanuts",
+              "p": 0.45,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 25, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/4742961b-a441-4c7e-81aa-79a28ef63b74/{slug}"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "104892710",
+              "n": "Morrisons Savers Fruit & Nuts",
+              "p": 0.59,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "0.30/100gram",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/dd833f4b-b5a2-4a4d-bd66-c3ec2ccaf49e/300x300.jpg"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "299497633",
+              "n": "Tesco Cashew Nuts 25G",
+              "p": 0.7,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 25, "u": "g" },
+              "ppuom": "£28.00/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/98d3f2c8-b78a-41a3-9654-a9bfc25d57a4/5029c1f5-dacc-4635-865d-b2763ace406b.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "506565011",
+              "n": "Nobby's Nuts Classic Dry Roasted Peanuts",
+              "p": 0.85,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 50, "u": "g" },
+              "ppuom": "1.7per 100g",
+              "img": "https://www.ocado.com/productImages/506/506565011_0_150x150.jpg"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "1000003093224",
+              "n": "ASDA Peanuts",
+              "p": 1.02,
+              "u": "Each",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "51.0p/100g",
+              "img": "https://ui.assets-asda.com:443/dm/5054781718390"
+            }
+          ]
+        ]
+      },
+      "dried fruit": {
+        "raisins and cranberries": [
+          [
+            "tc",
+            {
+              "id": "311807397",
+              "n": "Tesco Raisins And Cranberries 500G",
+              "p": 4.95,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 500, "u": "g" },
+              "ppuom": "£9.90/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/52bb4e9b-819c-4f12-bddc-0e3e21d8590c/80a0eae0-2647-4b92-82e0-a7f9786a5b46_141819681.jpeg?h=225&w=225"
+            }
+          ]
+        ],
+        "dates": [
+          [
+            "tc",
+            {
+              "id": "316558951",
+              "n": "Date Me Deglet Nour Dates 200g",
+              "p": 1.25,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "£6.25/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/386a32ba-e20a-47f8-8fba-eb6ef9c47802/88ff9874-815e-4b8a-b53d-a2ce503d5b65_285205703.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "105097646",
+              "n": "Morrisons Soft Pitted Dates",
+              "p": 1.6,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "0.80/100gram",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/cd27006c-e023-4e62-ba56-7f3d899e7374/300x300.jpg"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "275690011",
+              "n": "Whitworths Dates",
+              "p": 2.1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 300, "u": "g" },
+              "ppuom": "0.7per 100g",
+              "img": "https://www.ocado.com/productImages/275/275690011_0_150x150.jpg"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000495089002",
+              "n": "Pitted Dates",
+              "p": 2.79,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 500, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/bafb918a-d8b5-4bad-b4b7-266908f45f45/{slug}"
+            }
+          ]
+        ],
+        "cranberries": [
+          [
+            "ms",
+            {
+              "id": "105099431",
+              "n": "Morrisons Dried Cranberries ",
+              "p": 1.15,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 80, "u": "g" },
+              "ppuom": "1.44/100gram",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/37d86f66-1cb6-458f-accb-e95e4d449edc/300x300.jpg"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000492763001",
+              "n": "Dried Cranberries",
+              "p": 1.19,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 150, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/03031cd1-7941-4f6c-a8a1-7cf8125b2dd8/{slug}"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "308870949",
+              "n": "Tesco Cranberries 100G",
+              "p": 2,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 100, "u": "g" },
+              "ppuom": "£20.00/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/3b9c6789-df91-4318-bd79-f52af7e33f67/bb921e62-534f-4f20-9bf0-64f0f23ea3e7.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "509153011",
+              "n": "M&S Dried Cranberries",
+              "p": 2,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 100, "u": "g" },
+              "ppuom": "2per 100g",
+              "img": "https://www.ocado.com/productImages/509/509153011_0_150x150.jpg"
+            }
+          ]
+        ],
+        "berries": [
+          [
+            "tc",
+            {
+              "id": "299497719",
+              "n": "Tesco Mixed Berries 25G",
+              "p": 0.7,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 25, "u": "g" },
+              "ppuom": "£28.00/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/ac7e11ab-6c21-45b5-ac84-0b43feb7437f/5c48dea2-265f-405b-b77e-1077a665d537_3408760.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "253984011",
+              "n": "BEAR Fruit Dried Strawberries",
+              "p": 1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 35, "u": "g" },
+              "ppuom": "2.86per 100g",
+              "img": "https://www.ocado.com/productImages/253/253984011_0_150x150.jpg"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "114733923",
+              "n": "Wondermix Fight Fatigue Banana, Strawberries And Apple   200g",
+              "p": 3.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "17.50/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/0b0aefcf-34a6-4774-974f-18067af4ade2/300x300.jpg"
+            }
+          ]
+        ]
+      }
+    },
+    "vegs": {
+      "sweet potato": [
+        [
+          "tc",
+          {
+            "id": "253559199",
+            "n": "Tesco Large Sweet Potatoes Loose Class 1",
+            "p": 0.42,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£1.19/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/27d3e4c5-54c9-4fd0-8215-42db5d7e47b7/596f37e0-679f-4125-a7fc-d46328822004.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000272328",
+            "n": "Sweet Potatoes",
+            "p": 1.15,
+            "q": 1,
+            "u": "pac",
+            "nw": { "t": 1000, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/c320bc08-ea08-4855-b7ee-221dbb239f95/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "34872944",
+            "n": "ASDA Creamy & Flavoursome Sweet Potatoes",
+            "p": 1.17,
+            "u": "Each",
+            "nw": { "t": 1000, "u": "g" },
+            "ppuom": "£1.17/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5050854514784"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "108572051",
+            "n": "Morrisons Sweet Potatoes ",
+            "p": 1.25,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1000, "u": "g" },
+            "ppuom": "1.25/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/f8aef208-c60f-4e28-a662-60d8e640f4d1/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "518491011",
+            "n": "M&S Sweet Potatoes",
+            "p": 1.3,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1000, "u": "g" },
+            "ppuom": "1.3per kg",
+            "img": "https://www.ocado.com/productImages/518/518491011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "potato": [
+        [
+          "tc",
+          {
+            "id": "253555232",
+            "n": "Tesco Seasonal New Potatoes Loose",
+            "p": 0.19,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 64.40677966101694, "u": "g" },
+            "ppuom": "£2.95/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/53076151-9677-435c-8c0e-f8e9890837d4/7a9a6972-ecce-4bbd-be9b-2ea705d43f95_1010773824.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000339756",
+            "n": "Baking Potato",
+            "p": 0.24,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/51814ccd-c642-4601-a54f-192feeac108d/{slug}"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "108415081",
+            "n": "Morrisons Loose Baking Potato",
+            "p": 0.42,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 0.49, "u": "KG" },
+            "ppuom": "0.85/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/424cda9e-b777-45af-ab8c-2d55dece142b/300x300.jpg"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "1000150186056",
+            "n": "ASDA Extra Special British Baby Potatoes",
+            "p": 0.74,
+            "u": "Each",
+            "nw": { "t": 500, "u": "g" },
+            "ppuom": "£1.48/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5057172194315"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "94683011",
+            "n": "Ocado British White Potatoes",
+            "p": 0.95,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1000, "u": "g" },
+            "ppuom": "0.95per kg",
+            "img": "https://www.ocado.com/productImages/946/94683011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "pepper": [
+        [
+          "as",
+          {
+            "id": "910003087223",
+            "n": "ASDA Sweet & Peppery Swede",
+            "p": 0.5,
+            "u": "Each",
+            "nw": { "t": 400, "u": "g" },
+            "ppuom": "£1.25/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5054781557142"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000275192",
+            "n": "Red Pepper",
+            "p": 0.69,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/6e2d9955-c3c9-430b-bad7-e2c267a27586/{slug}"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "258270595",
+            "n": "Tesco Green Peppers Each",
+            "p": 0.69,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£0.69/each",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/ea466e2d-0433-42d4-b22f-67efc5a1b7b8/4ed03df6-96e3-4a38-84ae-436eee568eed.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "114042401",
+            "n": "Morrisons Padron Pepper Chillies",
+            "p": 1,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 135, "u": "g" },
+            "ppuom": "0.74/100gram",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/ef880c8f-e648-447b-8a19-2634642ee09e/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "528438011",
+            "n": "M&S Padron Peppers",
+            "p": 1.5,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 130, "u": "g" },
+            "ppuom": "11.54per kg",
+            "img": "https://www.ocado.com/productImages/528/528438011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "broccoli": [
+        [
+          "oc",
+          {
+            "id": "527578011",
+            "n": "M&S Broccoli",
+            "p": 0.7,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 300, "u": "g" },
+            "ppuom": "2.33per kg",
+            "img": "https://www.ocado.com/productImages/527/527578011_0_150x150.jpg"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000339776",
+            "n": "Broccoli",
+            "p": 0.79,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 360, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/e5740be2-7eb1-4f66-b920-e3f7a8c8f11e/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "910002634444",
+            "n": "ASDA Tender & Crunchy Broccoli",
+            "p": 0.79,
+            "u": "Each",
+            "nw": { "t": 360, "u": "g" },
+            "ppuom": "£2.19/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5054781135807"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "109148703",
+            "n": "Morrisons Broccoli",
+            "p": 0.79,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 350, "u": "g" },
+            "ppuom": "2.26/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/29a0193e-6e14-48ba-8b07-2a1fdc0ec86e/300x300.jpg"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "257231200",
+            "n": "Tesco Broccoli Loose",
+            "p": 0.82,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 374.42922374429224, "u": "g" },
+            "ppuom": "£2.19/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/283036b3-0a20-4c54-b98a-4e1a3b9781af/7943a08b-028b-4231-ad72-5698d498cc09.jpeg?h=225&w=225"
+          }
+        ]
+      ],
+      "cauliflower": [
+        [
+          "as",
+          {
+            "id": "1000001819875",
+            "n": "ASDA Light & Nutty Cauliflower Florets",
+            "p": 1,
+            "u": "Each",
+            "nw": { "t": 250, "u": "g" },
+            "ppuom": "£4.00/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5054781765875"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000334794",
+            "n": "British Cauliflower",
+            "p": 1.19,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/d68dcda8-4491-4346-a2ba-a6731131bb10/{slug}"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "253558119",
+            "n": "Tesco Cauliflower Each",
+            "p": 1.19,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£1.19/each",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/511426c3-7bed-4fa5-8aa5-558da130db97/15ffe954-5427-4ca1-b2fb-1edd3bebf25c_1893613264.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "65350011",
+            "n": "Ocado British Cauliflower",
+            "p": 1.19,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": null,
+            "img": "https://www.ocado.com/productImages/653/65350011_0_150x150.jpg"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "108303071",
+            "n": "Morrisons Medium Cauliflower ",
+            "p": 1.19,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "1.19/each",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/8fabd39a-9c5a-48ed-9172-21fd51e810f2/300x300.jpg"
+          }
+        ]
+      ],
+      "ginger": [
+        [
+          "tc",
+          {
+            "id": "253559297",
+            "n": "Tesco Root Ginger Loose",
+            "p": 0.55,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 100, "u": "g" },
+            "ppuom": "£5.50/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/63135246-b472-444a-bd07-1b8c1cefe664/7e4d15c8-cd37-4441-a1b0-26b920aff3df.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000266261",
+            "n": "Ginger",
+            "p": 0.95,
+            "q": 1,
+            "u": "pac",
+            "nw": { "t": 125, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/e152d3d0-a725-4cf1-8a60-11abc9b9cafa/{slug}"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "614517011",
+            "n": "Natoora Root Ginger",
+            "p": 0.95,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 65, "u": "g" },
+            "ppuom": "0.146per 10g",
+            "img": "https://www.ocado.com/productImages/614/614517011_0_150x150.jpg"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "110044215",
+            "n": "Morrisons Crushed Ginger ",
+            "p": 1,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 75, "u": "g" },
+            "ppuom": "1.33/100gram",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/22806c03-1ddd-441e-99d4-a992e5d62d8f/300x300.jpg"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "910002722519",
+            "n": "ASDA Sweet & Warming Ginger",
+            "p": 1.85,
+            "u": "Each",
+            "nw": { "t": 500, "u": "g" },
+            "ppuom": "£3.70/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5054781136033"
+          }
+        ]
+      ],
+      "kale": [
+        [
+          "as",
+          {
+            "id": "1000109022361",
+            "n": "ASDA Crisp & Earthy Unwashed Sliced Curly Kale 150g",
+            "p": 0.77,
+            "u": "Each",
+            "nw": { "t": 150, "u": "g" },
+            "ppuom": "£5.13/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5057172011568"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "112941551",
+            "n": "Morrisons Sliced Curly Kale",
+            "p": 0.79,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 150, "u": "g" },
+            "ppuom": "0.53/100gram",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/77e1ff92-a526-4b34-8409-d070cafe73f9/300x300.jpg"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "301219155",
+            "n": "Tesco Curly Kale 180G",
+            "p": 0.86,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 180, "u": "g" },
+            "ppuom": "£4.78/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/f69fad70-3f48-4f3d-8649-7e368bf0d5bc/99ff9212-d887-43da-bd48-8607b4e6d370.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000339974",
+            "n": "Scottish Shredded Kale",
+            "p": 0.95,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 200, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/f3b9d993-d887-4eed-acda-11389bee63dc/{slug}"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "65343011",
+            "n": "Ocado Sliced Kale",
+            "p": 0.95,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 200, "u": "g" },
+            "ppuom": "0.475per 100g",
+            "img": "https://www.ocado.com/productImages/653/65343011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "garlic": [
+        [
+          "al",
+          {
+            "id": "000000000000618715",
+            "n": "Loose Garlic",
+            "p": 0.37,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/7c3c9db5-0774-4ea6-ac52-a0fabe422350/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "910001811823",
+            "n": "ASDA Loose Garlic",
+            "p": 0.39,
+            "u": "Each",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "39.0p/each",
+            "img": "https://ui.assets-asda.com:443/dm/0000000016742"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "313168547",
+            "n": "Tesco Large Garlic",
+            "p": 0.4,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "£0.40/each",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/1ee68cb1-df48-401e-8c5a-5b365653bcbc/18a41947-9610-4a27-a873-f35d5d41bbc3_1512005419.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "91370011",
+            "n": "Ocado Large Garlic",
+            "p": 0.4,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u", "sz": "l" },
+            "img": "https://www.ocado.com/productImages/913/91370011_0_150x150.jpg"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "108388086",
+            "n": "Morrisons Garlic",
+            "p": 0.45,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "ppuom": "0.45/each",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/0f1b5d14-b0d5-42b7-a0ef-89268856d107/300x300.jpg"
+          }
+        ]
+      ],
+      "coriander": [
+        [
+          "al",
+          {
+            "id": "000000000000339817",
+            "n": "British Cut Coriander",
+            "p": 0.52,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 30, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/9046d4d0-89f8-489f-aae1-f99a098a7da2/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "1000232766724",
+            "n": "ASDA Aromatic & Zesty Coriander",
+            "p": 0.52,
+            "u": "Each",
+            "nw": { "t": 30, "u": "g" },
+            "ppuom": "17.3p/10g",
+            "img": "https://ui.assets-asda.com:443/dm/5057172439775"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "292686490",
+            "n": "Tesco Fresh Cut Coriander 30G",
+            "p": 0.52,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 30, "u": "g" },
+            "ppuom": "£0.17/10g",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs-mktg/b0b04216-fa73-466d-a9d7-c9fcfa1ce9b3/no-image.jpeg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "518591011",
+            "n": "M&S Chilli & Coriander Noodles",
+            "p": 1.75,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 300, "u": "g" },
+            "ppuom": "0.583per 100g",
+            "img": "https://www.ocado.com/productImages/518/518591011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "cucumber": [
+        [
+          "al",
+          {
+            "id": "000000000000273659",
+            "n": "Cucumber",
+            "p": 0.89,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/c6a064ff-d20c-43a0-990a-022a37798a53/{slug}"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "629901011",
+            "n": "Ocado Organic Cucumber",
+            "p": 1.2,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 1, "u": "u" },
+            "img": "https://www.ocado.com/productImages/629/629901011_0_150x150.jpg"
+          }
+        ],
+        [
+          "tc",
+          {
+            "id": "315075509",
+            "n": "Tesco Cucumber With Soured Cream & Chive Dip 120g",
+            "p": 1.5,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 120, "u": "g" },
+            "ppuom": "£12.50/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/7bd79d69-fcc2-4a26-b04c-8096807b0909/8b9c9cb4-8f83-4266-9dd2-2c2e348d8347.jpeg?h=225&w=225"
+          }
+        ]
+      ],
+      "carrot": [
+        [
+          "tc",
+          {
+            "id": "254638565",
+            "n": "Tesco Carrots Loose",
+            "p": 0.11,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 160, "u": "g" },
+            "ppuom": "£0.69/kg",
+            "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/47e5311e-2827-46ef-a97d-3b9a8d9aa8e9/snapshotimagehandler_1804754647.jpeg?h=225&w=225"
+          }
+        ],
+        [
+          "al",
+          {
+            "id": "000000000000339792",
+            "n": "Carrots",
+            "p": 0.4,
+            "q": 1,
+            "u": "ea",
+            "nw": { "t": 500, "u": "g" },
+            "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/b80f9a05-f51a-489c-9d71-de1fc494700b/{slug}"
+          }
+        ],
+        [
+          "as",
+          {
+            "id": "910003188304",
+            "n": "ASDA Grower's Selection British Carrots 500g",
+            "p": 0.43,
+            "u": "Each",
+            "nw": { "t": 500, "u": "g" },
+            "ppuom": "86.0p/kg",
+            "img": "https://ui.assets-asda.com:443/dm/5054781580058"
+          }
+        ],
+        [
+          "ms",
+          {
+            "id": "108305383",
+            "n": "Morrisons Carrots ",
+            "p": 0.5,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 500, "u": "g" },
+            "ppuom": "1.00/kg",
+            "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/e9c21f90-1ad2-44fd-b44c-1f48102958d8/300x300.jpg"
+          }
+        ],
+        [
+          "oc",
+          {
+            "id": "518655011",
+            "n": "M&S Carrots",
+            "p": 0.55,
+            "q": 1,
+            "u": "u",
+            "nw": { "t": 500, "u": "g" },
+            "ppuom": "1.1per kg",
+            "img": "https://www.ocado.com/productImages/518/518655011_0_150x150.jpg"
+          }
+        ]
+      ],
+      "onion": {
+        "brown onion": [
+          [
+            "tc",
+            {
+              "id": "253557034",
+              "n": "Tesco Brown Onions Loose",
+              "p": 0.12,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 120, "u": "g" },
+              "ppuom": "£0.99/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/d06673d0-5bd9-4af1-b401-8f248b89489b/6abb5da5-8e6a-4846-bb23-b65030a1c4f9.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000000339830",
+              "n": "British Wonky Brown Onions",
+              "p": 0.8,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 1000, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/96f8ce19-aea3-4c65-9be4-4468be7e3dfa/{slug}"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "910003012588",
+              "n": "ASDA 3 Crunchy & Fragrant Brown Onions",
+              "p": 0.95,
+              "u": "Each",
+              "nw": { "t": 3, "u": "u" },
+              "ppuom": "31.7p/each",
+              "img": "https://ui.assets-asda.com:443/dm/5054781511908"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "44857011",
+              "n": "Ocado Brown Onions",
+              "p": 0.99,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1000, "u": "g" },
+              "ppuom": "0.99per kg",
+              "img": "https://www.ocado.com/productImages/448/44857011_0_150x150.jpg"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "108504753",
+              "n": "Morrisons Brown Onions   1kg",
+              "p": 0.99,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1000, "u": "g" },
+              "ppuom": "0.99/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/4282dcc6-df5a-4681-8d69-27d6adfb8a1a/300x300.jpg"
+            }
+          ]
+        ],
+        "red onion": [
+          [
+            "tc",
+            {
+              "id": "258114107",
+              "n": "Tesco Red Onions Loose",
+              "p": 0.2,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 210, "u": "g" },
+              "ppuom": "£0.95/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/aaf7f095-6fde-4f85-8e71-4eccc53a58de/c50ac02c-a571-43e9-b646-1bb288974912.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "910003101905",
+              "n": "ASDA Sliced Red Onion",
+              "p": 0.58,
+              "u": "Each",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "£3.87/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5054781557173"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "114065401",
+              "n": "Morrisons Market Street Sliced Red Onions ",
+              "p": 0.75,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 150, "u": "g" },
+              "ppuom": "5.00/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/33fb9876-0221-4079-861d-b8d8305dbd73/300x300.jpg"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000000339862",
+              "n": "British Large Red Onions",
+              "p": 0.95,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 3, "u": "u" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/7b1efed7-40bd-46df-b1b9-7b6d8936a311/{slug}"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "54449011",
+              "n": "Ocado Red Onions",
+              "p": 0.95,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1000, "u": "g" },
+              "ppuom": "0.95per kg",
+              "img": "https://www.ocado.com/productImages/544/54449011_0_150x150.jpg"
+            }
+          ]
+        ],
+        "onion": [
+          [
+            "ms",
+            {
+              "id": "108504884",
+              "n": "Morrisons Loose Onion",
+              "p": 0.16,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 0.16, "u": "KG" },
+              "ppuom": "0.99/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/468cbafd-7646-45fc-ba68-0b1fa976ee74/300x300.jpg"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000000587721",
+              "n": "Diced Onion",
+              "p": 0.45,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 200, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/df25f2ac-7f15-4e81-80f5-3ba0a19d335c/{slug}"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "910003087416",
+              "n": "ASDA Chopped Onion",
+              "p": 0.54,
+              "u": "Each",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "£2.70/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5054781557166"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "517974011",
+              "n": "M&S Salad Onions",
+              "p": 0.7,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "u" },
+              "img": "https://www.ocado.com/productImages/517/517974011_0_150x150.jpg"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "305982539",
+              "n": "Tesco Pink Onions 1Kg",
+              "p": 0.95,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1000, "u": "g" },
+              "ppuom": "£0.95/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/78be7118-3373-481c-9af4-cffae9f4954f/35dbf5ab-3e00-438c-9666-909793caa24e.jpeg?h=225&w=225"
+            }
+          ]
+        ]
+      },
+      "mushroom": {
+        "baby button": [
+          [
+            "al",
+            {
+              "id": "000000000000339785",
+              "n": "British Baby Button Mushrooms",
+              "p": 0.95,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 200, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/29d47889-1b5f-4c6d-820a-6319307e6eb2/{slug}"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "486040011",
+              "n": "Ocado Baby Button Mushrooms",
+              "p": 1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "5per kg",
+              "img": "https://www.ocado.com/productImages/486/486040011_0_150x150.jpg"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "910003088989",
+              "n": "ASDA Mild & Tender Baby Button Mushrooms",
+              "p": 1.06,
+              "u": "Each",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "£5.30/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5054781579656"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "280046454",
+              "n": "Tesco Baby Button Mushrooms 200G",
+              "p": 1.15,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "£5.75/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/1d13c86c-18aa-434b-b32f-ccc7539c96fb/a3b89b31-794a-42c1-ac73-b5274cb270fb.jpeg?h=225&w=225"
+            }
+          ]
+        ],
+        "mushroom": [
+          [
+            "as",
+            {
+              "id": "1000087344364",
+              "n": "JUST ESSENTIALS by ASDA Mushrooms (Varieties may vary)",
+              "p": 0.8,
+              "u": "Each",
+              "nw": { "t": 250, "u": "g" },
+              "ppuom": "£3.20/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5057172010905"
+            }
+          ],
+          [
+            "al",
+            {
+              "id": "000000000000339976",
+              "n": "Sliced Mushrooms",
+              "p": 0.99,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 250, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/d5b25eed-052b-4ed5-bb71-bab4ded6336d/{slug}"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "518478011",
+              "n": "M&S British White Mushrooms",
+              "p": 1,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 300, "u": "g" },
+              "ppuom": "3.33per kg",
+              "img": "https://www.ocado.com/productImages/518/518478011_0_150x150.jpg"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "110228031",
+              "n": "Morrisons Button Mushrooms 200g",
+              "p": 1.15,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "5.75/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/47149ec2-1721-4f25-80de-69edd51809cd/300x300.jpg"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "287571051",
+              "n": "Tesco Sliced Mushrooms 250G",
+              "p": 1.35,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 250, "u": "g" },
+              "ppuom": "£5.40/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/ebe71618-e853-4235-b7fe-721e365d4993/21231c84-9ad9-4b34-8e5e-f78f41f27123.jpeg?h=225&w=225"
+            }
+          ]
+        ]
+      },
+      "cabbage": {
+        "savoy": [
+          [
+            "al",
+            {
+              "id": "000000000000339970",
+              "n": "Savoy Cabbage",
+              "p": 0.75,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 1, "u": "u" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/68bfd64d-8cde-4825-9d2e-7210147ed66c/{slug}"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "255838396",
+              "n": "Tesco Savoy Cabbage Each",
+              "p": 0.75,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "u" },
+              "ppuom": "£0.75/each",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/08dbc35a-cc6a-41a5-9838-0d355cf74991/87b2c82a-35dc-45d4-b6bd-fa85128cd415.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "108300961",
+              "n": "Morrisons Savoy Cabbage",
+              "p": 0.75,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "u" },
+              "ppuom": "0.75/each",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/ee550d81-889e-45f8-b209-6b47de37565b/300x300.jpg"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "20290",
+              "n": "ASDA Sweet & Earthy Savoy Cabbage",
+              "p": 0.78,
+              "u": "Each",
+              "nw": { "t": 1, "u": "u" },
+              "ppuom": "78.0p/each",
+              "img": "https://ui.assets-asda.com:443/dm/0000023009127"
+            }
+          ]
+        ],
+        "red": [
+          [
+            "al",
+            {
+              "id": "000000000340671002",
+              "n": "Red Cabbage",
+              "p": 0.75,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 1, "u": "u" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/bfeace4a-21aa-45b3-bf5a-b154a7a763d1/{slug}"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "294070184",
+              "n": "Tesco Red Cabbage Each",
+              "p": 0.79,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "u" },
+              "ppuom": "£0.79/each",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/b01f2f2a-aed6-4fd7-8c81-25f7bcf62e33/f321afe8-3f47-41e7-8a9c-7e105e00b068_144479100.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "108300881",
+              "n": "Morrisons Red Cabbage 450-1350g",
+              "p": 0.9,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "u" },
+              "ppuom": "0.90/each",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/8cfe1cf6-0ea1-43d8-914c-2340342a7bc7/300x300.jpg"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "519979011",
+              "n": "M&S Red Cabbage",
+              "p": 0.95,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 1, "u": "u" },
+              "img": "https://www.ocado.com/productImages/519/519979011_0_150x150.jpg"
+            }
+          ],
+          [
+            "as",
+            {
+              "id": "910000840588",
+              "n": "ASDA Red Cabbage (Typically 1kg)",
+              "p": 1,
+              "u": "Both",
+              "nw": { "t": 1000, "u": "g" },
+              "ppuom": "£1.00/kg",
+              "img": "https://ui.assets-asda.com:443/dm/0267610000008"
+            }
+          ]
+        ]
+      },
+      "beans": {
+        "runner": [
+          [
+            "as",
+            {
+              "id": "910003088826",
+              "n": "ASDA Runner Beans",
+              "p": 1.33,
+              "u": "Each",
+              "nw": { "t": 180, "u": "g" },
+              "ppuom": "£7.39/kg",
+              "img": "https://ui.assets-asda.com:443/dm/5054781512868"
+            }
+          ],
+          [
+            "tc",
+            {
+              "id": "293953495",
+              "n": "Tesco Runner Beans 180G",
+              "p": 1.4,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 180, "u": "g" },
+              "ppuom": "£7.78/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs/bbd37fad-0fac-47ce-8e77-d1e19d3543fc/93aa0a4e-3ece-4bbf-a818-f09205b9483f.jpeg?h=225&w=225"
+            }
+          ],
+          [
+            "ms",
+            {
+              "id": "114723653",
+              "n": "  Morrisons Traditional Sliced Runner Beans",
+              "p": 1.75,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 160, "u": "g" },
+              "ppuom": "10.94/kg",
+              "img": "https://groceries.morrisons.com/images-v3/4b85987b-1398-4173-a0c1-3546047c9d74/5a79deb0-0e6b-4f48-a9f3-646e7cfc54f5/300x300.jpg"
+            }
+          ],
+          [
+            "oc",
+            {
+              "id": "518641011",
+              "n": "M&S Runner Bean & Mixed Vegetable Selection",
+              "p": 2.5,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 200, "u": "g" },
+              "ppuom": "1.25per 100g",
+              "img": "https://www.ocado.com/productImages/518/518641011_0_150x150.jpg"
+            }
+          ]
+        ]
+      },
+      "mix": {
+        "mixed vegetables": [
+          [
+            "tc",
+            {
+              "id": "293905363",
+              "n": "Tesco Mixed Vegetables 225G",
+              "p": 1.75,
+              "q": 1,
+              "u": "u",
+              "nw": { "t": 225, "u": "g" },
+              "ppuom": "£7.78/kg",
+              "img": "https://digitalcontent.api.tesco.com/v2/media/ghs-mktg/b0b04216-fa73-466d-a9d7-c9fcfa1ce9b3/no-image.jpeg"
+            }
+          ]
+        ]
+      },
+      "lettuce": {
+        "iceberg": [
+          [
+            "al",
+            {
+              "id": "000000000000339803",
+              "n": "Chopped Iceberg Lettuce",
+              "p": 0.64,
+              "q": 1,
+              "u": "ea",
+              "nw": { "t": 200, "u": "g" },
+              "img": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/300/5b29a1a4-5178-446b-953b-134b01ff9256/{slug}"
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "ts": "2025-05-19"
+}

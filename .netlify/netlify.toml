@@ -7,7 +7,7 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "/Users/kayzen/Lucas/HAPS/_open/AppFounder/cheapifier/admin/landing/project 2/dist"
+publish = "/Users/kayzen/Lucas/HAPS/_open/AppFounder/cheapifier/admin/landing/bolt-lp/dist"
 publishOrigin = "ui"
 commandOrigin = "ui"
 command = "npm run build"

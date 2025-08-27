@@ -2,6 +2,8 @@ import posthog from 'posthog-js';
 
 // Initialize PostHog only on the client side
 if (typeof window !== 'undefined') {
+  if (import.meta.env.NODE_ENV === 'production') {
+    // In development or testing, return children without initializing PostHog
   posthog.init(import.meta.env.PUBLIC_POSTHOG_KEY, {
     api_host: import.meta.env.PUBLIC_POSTHOG_HOST,
     // Enable debug mode in development
@@ -20,6 +22,7 @@ if (typeof window !== 'undefined') {
       },
     },
   });
+  }
 }
 
 export { posthog };

@@ -22,7 +22,7 @@ import Analytics from '../components/Analytics';
       basic: {
         title: "Cheapify - Save Money on Vegan Groceries",
         type: "website",
-        image: "https://cheapify.app/og-image.jpg",
+        image: "https://cheapify.app/images/cheapest-prices-share.jpg",
       }
     }}
   />
@@ -37,6 +37,114 @@ import Analytics from '../components/Analytics';
     <Testimonials client:load />
     <Blog client:load />
     <Faq client:load />
+    
+    <!-- Price Comparison Hero Section -->
+    <section class="py-16 md:py-24 bg-gradient-to-br from-green-50 to-teal-50">
+      <div class="container mx-auto px-4 md:px-6">
+        <div class="max-w-6xl mx-auto">
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <!-- Text Content -->
+            <div class="text-center lg:text-left">
+              <h2 class="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-800 mb-6 leading-tight">
+                The Ultimate Vegan Price Hack: <span class="text-green-600">50 Everyday Items</span> Compared Across UK Supermarkets
+              </h2>
+              <p class="text-xl md:text-2xl text-gray-600 mb-8 leading-relaxed">
+                Stop overpaying for basics. Discover where to shop, what to buy, and how much you'll actually save.
+              </p>
+              
+              <!-- CTA Buttons -->
+              <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
+                <a 
+                  href="/uk/cheapest-vegan-items#cheapest-items"" 
+                  class="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all transform hover:scale-105 shadow-lg"
+                >
+                  See Price Comparisons, No Credit Card required
+                </a>
+              </div>
+              
+              <!-- Stats -->
+              <div class="grid grid-cols-3 gap-4 text-center lg:text-left">
+                <div>
+                  <p class="text-2xl font-bold text-green-600">50+</p>
+                  <p class="text-sm text-gray-600">Items Compared</p>
+                </div>
+                <div>
+                  <p class="text-2xl font-bold text-green-600">5</p>
+                  <p class="text-sm text-gray-600">UK Supermarkets</p>
+                </div>
+                <div>
+                  <p class="text-2xl font-bold text-green-600">£35</p>
+                  <p class="text-sm text-gray-600">Average Savings</p>
+                </div>
+              </div>
+            </div>
+            <!-- Image Content -->
+            <div class="relative">
+              <div class="relative bg-white rounded-2xl shadow-2xl p-8 transform rotate-1 hover:rotate-0 transition-transform duration-500">
+                <!-- Shopping Basket Comparison -->
+                <div class="grid grid-cols-2 gap-6">
+                  <!-- Expensive Store Side -->
+                  <div class="text-center">
+                    <div class="bg-red-50 border-2 border-red-200 rounded-lg p-4 mb-3">
+                      <div class="text-red-600 font-bold text-sm mb-2">Expensive Store</div>
+                      <div class="text-3xl font-bold text-red-600">£80</div>
+                    </div>
+                    <div class="space-y-2 text-xs text-gray-600">
+                      <div class="flex justify-between">
+                        <span>Oat Milk</span>
+                        <span>£2.50</span>
+                      </div>
+                      <div class="flex justify-between">
+                        <span>Chickpeas</span>
+                        <span>£0.75</span>
+                      </div>
+                      <div class="flex justify-between">
+                        <span>Bananas</span>
+                        <span>£1.05/kg</span>
+                      </div>
+                      <div class="text-gray-400">+ 47 more items</div>
+                    </div>
+                  </div>
+                  
+                  <!-- Cheaper Store Side -->
+                  <div class="text-center">
+                    <div class="bg-green-50 border-2 border-green-200 rounded-lg p-4 mb-3">
+                      <div class="text-green-600 font-bold text-sm mb-2">Smart Shopping</div>
+                      <div class="text-3xl font-bold text-green-600">£45</div>
+                    </div>
+                    <div class="space-y-2 text-xs text-gray-600">
+                      <div class="flex justify-between">
+                        <span>Oat Milk</span>
+                        <span>£1.39</span>
+                      </div>
+                      <div class="flex justify-between">
+                        <span>Chickpeas</span>
+                        <span>£0.39</span>
+                      </div>
+                      <div class="flex justify-between">
+                        <span>Bananas</span>
+                        <span>£0.69/kg</span>
+                      </div>
+                      <div class="text-gray-400">+ 47 more items</div>
+                    </div>
+                  </div>
+                </div>
+                
+                <!-- Save Badge -->
+                <div class="absolute -top-4 -right-4 bg-yellow-400 text-black font-bold px-6 py-3 rounded-full shadow-lg transform rotate-12 border-4 border-white">
+                  <div class="text-lg">Save £35</div>
+                  <div class="text-xs">Instantly!</div>
+                </div>
+              </div>
+              
+              <!-- Decorative elements -->
+              <div class="absolute -top-6 -left-6 w-32 h-32 bg-green-100 rounded-full filter blur-xl opacity-70"></div>
+              <div class="absolute -bottom-8 -right-8 w-32 h-32 bg-teal-100 rounded-full filter blur-xl opacity-70"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <Newsletter client:load />
     <Footer client:load />
   </div>
