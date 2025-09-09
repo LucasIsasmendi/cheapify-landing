@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { CheckCircle as CircleCheck, ShoppingBag, Store, Receipt, Apple, PlayCircle, ChevronDown } from 'lucide-react';
+import { CheckCircle as CircleCheck, ShoppingBag, Store, Receipt, Apple, PlayCircle, ChevronDown, Globe } from 'lucide-react';
 
 type StepProps = {
   number: number;
@@ -123,6 +123,18 @@ const HowItWorks: React.FC = () => {
                     <p className="text-sm text-gray-500">Download for Android</p>
                   </div>
                 </a>
+                                  <a 
+                    href="https://web.cheapify.app" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="flex items-center px-4 py-3 hover:bg-gray-50 transition-colors rounded-b-lg"
+                  >
+                    <Globe className="h-5 w-5 mr-3" />
+                    <div>
+                      <p className="font-medium text-gray-800">Web App</p>
+                      <p className="text-sm text-gray-500">Start in the browser</p>
+                    </div>
+                  </a>
               </div>
             )}
           </div>

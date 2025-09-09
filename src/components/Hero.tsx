@@ -1,5 +1,5 @@
 import React from 'react';
-import { Apple, PlayCircle } from 'lucide-react';
+import { Apple, PlayCircle, Globe } from 'lucide-react';
 import { trackEvent } from './Analytics';
 
 const Hero: React.FC = () => {
@@ -17,6 +17,12 @@ const Hero: React.FC = () => {
     });
   };
 
+    const handleWebAppClick = () => {
+    trackEvent('web_app_click', {
+      source: 'hero_section',
+      platform: 'web'
+    });
+  };
   return (
     <section className="pt-20 pb-16 md:pt-32 md:pb-24 bg-gradient-to-br from-green-50 to-teal-50">
       <div className="container mx-auto px-4 md:px-6">
@@ -46,6 +52,16 @@ const Hero: React.FC = () => {
               >
                 <PlayCircle className="h-5 w-5 mr-2" />
                 Google Play
+              </a>
+                            <a 
+                href="https://web.cheapify.app" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                onClick={handleWebAppClick}
+                className="flex items-center justify-center bg-yellow-600 hover:bg-yellow-700 text-white px-6 py-3 rounded-full font-medium transition-all transform hover:scale-105"
+              >
+                <Globe className="h-5 w-5 mr-2" />
+                Web App
               </a>
             </div>
             
@@ -79,7 +95,7 @@ const Hero: React.FC = () => {
               <div className="bg-white p-2 rounded-[3rem] shadow-xl border-4 border-gray-100 relative z-10 transform rotate-3 hover:rotate-0 transition-transform duration-500">
                 <div className="rounded-[2.5rem] overflow-hidden border border-gray-200">
                   <img 
-                    src="https://images.pexels.com/photos/1660027/pexels-photo-1660027.jpeg?auto=compress&cs=tinysrgb&w=1260" 
+                    src="/images/cheapify_landing.jpeg" 
                     alt="Cheapify App" 
                     className="w-full h-auto"
                   />

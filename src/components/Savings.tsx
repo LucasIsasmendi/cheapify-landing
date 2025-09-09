@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { PoundSterling, ArrowRight, Pound } from 'lucide-react';
+import { PoundSterling, ArrowRight } from 'lucide-react';
 
 const Savings: React.FC = () => {
   const [monthlySpending, setMonthlySpending] = useState<number>(300);
@@ -59,7 +59,7 @@ const Savings: React.FC = () => {
               
               <div className="mt-6">
                 <button className="w-full bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-full font-medium transition-colors flex items-center justify-center">
-                  Start Saving Now
+                <a href="https://web.cheapify.app" target="_blank" rel="noopener noreferrer">Start Saving Now, try it free online</a>  
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </button>
               </div>
@@ -69,7 +69,7 @@ const Savings: React.FC = () => {
           <div className="lg:w-1/2">
             <div className="relative">
               <img 
-                src="https://images.pexels.com/photos/5605061/pexels-photo-5605061.jpeg?auto=compress&cs=tinysrgb&w=1260"
+                src="/images/plant-based-items-prices_2x.jpg" 
                 alt="Vegan grocery savings" 
                 className="rounded-2xl shadow-lg w-full"
               />

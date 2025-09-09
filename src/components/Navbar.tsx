@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, Apple, PlayCircle, ChevronDown } from 'lucide-react';
+import { Menu, X, Apple, PlayCircle, ChevronDown, Globe } from 'lucide-react';
 
 const Navbar: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -59,7 +59,7 @@ const Navbar: React.FC = () => {
                 }}
                 className="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-full font-medium transition-colors flex items-center"
               >
-                Download Now
+                Try Now
                 <ChevronDown className="h-5 w-5 ml-2" />
               </button>
               
@@ -85,6 +85,18 @@ const Navbar: React.FC = () => {
                     <div>
                       <p className="font-medium text-gray-800">Google Play</p>
                       <p className="text-sm text-gray-500">Download for Android</p>
+                    </div>
+                  </a>
+                  <a 
+                    href="https://web.cheapify.app" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="flex items-center px-4 py-3 hover:bg-gray-50 transition-colors rounded-b-lg"
+                  >
+                    <Globe className="h-5 w-5 mr-3" />
+                    <div>
+                      <p className="font-medium text-gray-800">Web App</p>
+                      <p className="text-sm text-gray-500">Start in the browser</p>
                     </div>
                   </a>
                 </div>
