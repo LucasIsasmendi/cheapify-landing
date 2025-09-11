@@ -15,7 +15,6 @@ dist-ssr
 .astro/*
 .bolt
 .netlify/*
-.env
 
 # Editor directories and files
 .vscode/*
